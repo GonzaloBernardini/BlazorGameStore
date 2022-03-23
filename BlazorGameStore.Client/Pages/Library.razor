@@ -1,0 +1,39 @@
+@page "/library"
+<div class="library">
+<main>
+    @if (gameList != null && gameList.Count > 0)
+    {
+        @foreach (var item in gameList)
+        {
+            <a class="game-card" href="#">
+                <article>
+                    <div>
+                        <img src="@item.Image">
+                    </div>
+                    <h3>@item.Title</h3>
+                    <p>
+                        <span class="jam jam-download"></span>
+                        <span>Descargar</span>
+                    </p>                    
+                </article>
+            </a>
+        }
+    }
+</main>
+</div>
+@code
+{
+    List<Game> gameList = new List<Game>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        gameList.Add(new Game()
+        {
+            Title = "Rocket League",
+            Description = "Described as 'soccer, but with rocket-powered cars', Rocket League has up to eight players assigned to each of the two teams, using rocket-powered vehicles to hit a ball into their opponent's goal and score points over the course of a match.",
+            Image = "https://as01.epimg.net/meristation/imagenes/2020/09/23/noticias/1600849560_494635_1600849813_portada_normal.jpg",
+            Price = 15.0M,
+            Discount = 0.6M
+        });
+    }
+}
