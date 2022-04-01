@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorGameStore.Client.Shared
+namespace BlazorGameStore.Client.Pages
 {
     #line hidden
     using System;
@@ -89,7 +89,8 @@ using shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/settings")]
+    public partial class Settings : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -97,16 +98,9 @@ using shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 34 "c:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\Shared\NavMenu.razor"
-       
-    private bool collapseNavMenu = true;
-
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
-
-    private void ToggleNavMenu()
-    {
-        collapseNavMenu = !collapseNavMenu;
-    }
+#line 41 "c:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\Pages\Settings.razor"
+      
+    UserProfile userProfile = new UserProfile();
 
 #line default
 #line hidden

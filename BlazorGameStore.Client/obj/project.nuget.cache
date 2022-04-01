@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zL+5q3E+blQOlxReVUFYZt7DeM1xh8I+UFw6V6tA81btrc5aSHUKxkDEyliL214f8NuueK6P711jYNwPVfL+ug==",
+  "dgSpecHash": "SCvk6UEln0h8m4WAQEkmjKD16JQtyBdQlkgjzD8S3W5Xb6INoN2rC1OWo4eRe6F99qDVUrfsvShgi8ldnjqKHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gbern\\Desktop\\GONZA\\Programacion\\DOTNET\\BlazorGameStore\\BlazorGameStore.Client\\BlazorGameStore.Client.csproj",
+  "projectFilePath": "C:\\Users\\gbern\\Desktop\\GONZA\\Programacion\\DOTNET\\BlazorGameStore\\BlazorGameStore.client\\BlazorGameStore.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gbern\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\gbern\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",

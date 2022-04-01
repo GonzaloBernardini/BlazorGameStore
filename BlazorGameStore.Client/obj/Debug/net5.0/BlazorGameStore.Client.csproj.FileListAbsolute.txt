@@ -624,7 +624,6 @@ C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\blazorgamestore
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\blazorgamestore.client\obj\Debug\net5.0\BlazorGameStore.Client.dll
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\blazorgamestore.client\obj\Debug\net5.0\ref\BlazorGameStore.Client.dll
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\blazorgamestore.client\obj\Debug\net5.0\BlazorGameStore.Client.pdb
-C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\obj\Debug\net5.0\build-gz\FbsTpere.gz
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\bin\Debug\net5.0\wwwroot\_framework\shared.dll.gz
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\bin\Debug\net5.0\wwwroot\_framework\shared.dll
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\bin\Debug\net5.0\wwwroot\_framework\shared.pdb
@@ -633,3 +632,6 @@ C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\obj\Debug\net5.0\Razor\Pages\Store.razor.g.cs
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\obj\Debug\net5.0\RazorDeclaration\Pages\Library.razor.g.cs
 C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.Client\obj\Debug\net5.0\Razor\Pages\Library.razor.g.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.client\obj\Debug\net5.0\RazorDeclaration\Pages\Settings.razor.g.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.client\obj\Debug\net5.0\Razor\Pages\Settings.razor.g.cs
+C:\Users\gbern\Desktop\GONZA\Programacion\DOTNET\BlazorGameStore\BlazorGameStore.client\obj\Debug\net5.0\build-gz\w4bneEXq.gz
