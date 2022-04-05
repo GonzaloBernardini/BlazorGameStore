@@ -140,6 +140,39 @@
         }
       },
       {
+        "HashCode": -288850031,
+        "Kind": "Components.Component",
+        "Name": "BlazorGameStore.Client.Pages.Login",
+        "AssemblyName": "BlazorGameStore.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorGameStore.Client.Pages.Login"
+        }
+      },
+      {
+        "HashCode": 804590645,
+        "Kind": "Components.Component",
+        "Name": "BlazorGameStore.Client.Pages.Login",
+        "AssemblyName": "BlazorGameStore.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorGameStore.Client.Pages.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorGameStore.Client.Pages.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -307983001,
         "Kind": "Components.Component",
         "Name": "BlazorGameStore.Client.Pages.Settings",
@@ -13077,6 +13110,11 @@
     {
       "FilePath": "c:\\Users\\gbern\\Desktop\\GONZA\\Programacion\\DOTNET\\BlazorGameStore\\BlazorGameStore.Client\\Shared\\SurveyPrompt.razor",
       "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\gbern\\Desktop\\GONZA\\Programacion\\DOTNET\\BlazorGameStore\\BlazorGameStore.Client\\Pages\\Login.razor",
+      "TargetPath": "Pages\\Login.razor",
       "FileKind": "component"
     },
     {

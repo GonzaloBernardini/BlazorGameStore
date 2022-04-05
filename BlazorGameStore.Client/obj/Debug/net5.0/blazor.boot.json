@@ -195,13 +195,13 @@
       "mscorlib.dll": "sha256-CbcIR45\/xUFaZJqGIle6bb7v2kWYjp4kOFpKNnCkd4I=",
       "netstandard.dll": "sha256-qE0Q70OyVlHYY\/Y3nwMjfh+zissea9uhfvWMvPWfI7w=",
       "System.Private.CoreLib.dll": "sha256-pdkcl2+OojCfrhxX5eFmKI30wAmhL6s+sCLp7s175k0=",
-      "shared.dll": "sha256-JPk3dN+GD+CgAaAMKqjuBhGfubSIQuKs5lemCIWcvJs=",
-      "BlazorGameStore.Client.dll": "sha256-mZLVIhWwqd1IFYnMWc+hqtbiKMW6WecThuwyDykoXng="
+      "shared.dll": "sha256-QXf3YwqSpsjWQbBD\/EQoMIY4VsrJzSn83oR\/8dlmHCw=",
+      "BlazorGameStore.Client.dll": "sha256-8g\/wUhzxCv5GmzSoluG39GE5ptoREl2LURqR7vuoexU="
     },
     "lazyAssembly": null,
     "pdb": {
-      "shared.pdb": "sha256-I8\/tWAjL+96kVO4qf30gRHO5fNqjBWckNm9KlYAP0RE=",
-      "BlazorGameStore.Client.pdb": "sha256-C5Wg2KY2vqbhBQkfnjlAv4Rz5NtDzG8Dd8iyGMNp5dg="
+      "shared.pdb": "sha256-+MBHU+ahoEO3OyqKOYJM35vgGou\/\/spdb2SeAqiTo60=",
+      "BlazorGameStore.Client.pdb": "sha256-HbDVYzo0NCRQUQT4ufWUaDGW67NZlGCeqnf7jsn0aWM="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-ootDKSA6cNAbgJLmPhrHsPVvVqkGEYdRZxucC22LWjw=",
